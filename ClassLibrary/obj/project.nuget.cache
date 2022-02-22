@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ni2K0Kz/Pwwd20jqi9is+5tnZs/tyr6qPIcIzCPBuRoyUTtlIDuJtJeD86SYQqIxiTbbvS8LSAH7Vhdyj7DRGA==",
+  "success": true,
+  "projectFilePath": "D:\\Grpc\\AspNetCore.Docs-main\\aspnetcore\\grpc\\test-services\\sample\\Server\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\google.protobuf\\3.19.3\\google.protobuf.3.19.3.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.core.api\\2.41.0\\grpc.core.api.2.41.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.net.client\\2.41.0\\grpc.net.client.2.41.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.net.common\\2.41.0\\grpc.net.common.2.41.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.tools\\2.43.0\\grpc.tools.2.43.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
